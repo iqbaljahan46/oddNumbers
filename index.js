@@ -9,6 +9,6 @@ for(i=0;i<arr.length;i++){
     }else {
         evenNumbers.push(arr[i]);
     }
-}console.log(oddNumbers);
+}console.log(oddNumbers,evenNumbers);
 
 
